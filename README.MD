@@ -2,6 +2,8 @@
 
 ## Cómo saber cuántos días le quedan al mes.
 
-## Cómo saber cuántos días le quedan al mes. (Con condicionales)
+## Cómo saber cuántos días le quedan al mes. (if else)
 
-## Raking de un Servicio. (Con condicionales)
+## Raking de un Servicio. (if elif else)
+
+## Lista de invitados. (Funciones)
