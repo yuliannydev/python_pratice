@@ -13,3 +13,5 @@
 ## Palindromo.
 
 ## Potencias. (While)
+
+## Imprimir los números del 1 al 100. (for)
