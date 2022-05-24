@@ -11,3 +11,5 @@
 ## Conversor de monedas.
 
 ## Palindromo.
+
+## Potencias. (While)
