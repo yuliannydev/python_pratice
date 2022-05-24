@@ -7,3 +7,7 @@
 ## Raking de un Servicio. (if elif else)
 
 ## Lista de invitados. (Funciones)
+
+## Conversor de monedas.
+
+## Palindromo.
