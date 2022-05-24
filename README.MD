@@ -15,3 +15,7 @@
 ## Potencias. (While)
 
 ## Imprimir los números del 1 al 100. (for)
+
+## Imprimir toda las letras que contiene una cadena. (for)
+
+## Generador de frase dummy. (for, if, elif)
