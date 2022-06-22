@@ -19,3 +19,5 @@
 ## Imprimir toda las letras que contiene una cadena. (for)
 
 ## Generador de frase dummy. (for, if, elif)
+
+## Comprobar si un número es primo.
